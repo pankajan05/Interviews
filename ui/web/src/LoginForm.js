@@ -1,6 +1,7 @@
 import React from 'react';
 import Store from "./folder/Store";
 import InputField from "./InputField";
+import SubmitButton from "./SubmitButton";
 
 class LoginForm extends React.Component{
     constructor(props) {
@@ -74,6 +75,14 @@ class LoginForm extends React.Component{
                 placeholder='Username'
                 value={this.state.username? this.state.username:''}
                 onChange={(val) => this.setInputValue('username',val)}/>
+
+                <InputField type='password'
+                            placeholder='Password'
+                            value={this.state.password ? this.state.password: '' }
+                            onChange={(val) => this.setInputValue('password', val)} />
+                <SubmitButton text = 'Login'
+                              disabled={this.state.buttonDisabled}
+                              onClick={() => this.doLogin()}/>
             </div>
         );
     }
