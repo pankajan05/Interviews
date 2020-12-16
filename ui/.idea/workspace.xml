@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6adf05b5-3ab5-4a47-8a53-4ca390e940f3" name="Default Changelist" comment="" />
+    <list default="true" id="6adf05b5-3ab5-4a47-8a53-4ca390e940f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,7 +18,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
+            <state relative-caret-position="96">
               <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
             </state>
           </provider>
@@ -25,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="69" column="31" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
+            <state relative-caret-position="320">
+              <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -46,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/src/InputField.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
+            <state relative-caret-position="120">
               <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
             </state>
           </provider>
@@ -171,16 +173,18 @@
       <updated>1608100742709</updated>
       <workItem from="1608100744015" duration="1061000" />
       <workItem from="1608102702781" duration="3522000" />
+      <workItem from="1608109663399" duration="613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4583000" />
+    <option name="totallyTimeSpent" value="5196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="598" y="2" width="780" height="784" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18867925" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18867925" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -209,22 +213,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
+        <state relative-caret-position="96">
           <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/folder/Store.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35" selection-start-column="35" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/InputField.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -232,6 +222,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="1" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/InputField.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/folder/Store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -244,8 +248,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="69" column="31" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
+        <state relative-caret-position="320">
+          <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
