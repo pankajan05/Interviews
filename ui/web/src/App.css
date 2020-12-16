@@ -6,8 +6,8 @@ body, html, #root, .app, .container {
   font-size: 28px;
   color: #fff;
   display: flex;
-  align-items: center;
   flex-direction: column;
+  align-items: center;
   justify-content: center;
   background-color: #282c34;
 }
@@ -17,8 +17,6 @@ body, html, #root, .app, .container {
   height: max-content;
   width: 100%;
   max-width: 400px;
-  padding-top: 20%;
-  padding-bottom: 20%;
   padding-left: 20px;
   padding-right: 20px;
 }

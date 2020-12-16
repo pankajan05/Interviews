@@ -73,7 +73,7 @@ class App extends React.Component{
                 );
             }
             return (
-                <div className="App">
+                <div className="app">
                     <div className="container">
                         <LoginForm/>
                     </div>
